@@ -1,0 +1,76 @@
+* {
+  border-radius: 10px;
+  font-size: 40px;
+}
+
+p {
+  color: lightcoral;
+  margin-left: 50%;
+  margin-top: unset;
+  background-color: skyblue;
+  text-indent: 10px;
+  font-style: bold;
+  padding:unset;
+}
+
+b {
+  text-align: left;
+  text-indent: 10px;
+  color: lightpink;
+  background-color: crimson;
+  margin:unset;
+  padding-right: 40%;
+  padding-left: 10px;
+}
+#me div {
+  font-style: bold;
+  margin-left: 85%;
+  text-align: center;
+  text-indent: unset;
+}
+
+h3{
+  margin:unset;
+}
+#me {
+  background-color: lightgray;
+  padding-top:  62.6%;
+  border-radius: unset;
+  text-indent: 10px;
+}
+#input_zone {
+  border-top: 2px solid;
+  text-align: center;
+  background-color: lightblue;
+  border-radius: 0px;
+  position: relative;
+  top: 100%;
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+#in {
+  outline: unset;
+  border: unset;
+  margin-bottom: 50px;
+  font-size: 40px;
+}
+#in:hover {
+  background-color: lightcyan;
+  outline: solid;
+  outline-color: lightpink;
+}
+#out {
+  border: unset;
+  outline: solid;
+  
+  font-size: 40px;
+  outline-color: purple;
+  background-color: lightsteelblue;
+}
+body {
+  margin: unset;
+  overflow-y: unset;
+}
+div {
+  margin: unset;
+}
